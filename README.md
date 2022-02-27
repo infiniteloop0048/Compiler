@@ -1,2 +1,4 @@
 # compiler__
-trying to cover the basic codes for compiler
+Written in C
+Lex for lexical analysis
+Yacc for syntax analysis
